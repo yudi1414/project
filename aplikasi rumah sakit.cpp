@@ -17,7 +17,7 @@ menu1:
     system("cls");
  cout<<endl;
     cout<<"||=========================================================||"<<endl;
-    cout<<"|                       FINAL PROJECT                       |"<<endl;
+    cout<<"|            RUMAH SAKIT PREMIER INDONESIA                  |"<<endl;
     cout<<"||=========================================================||"<<endl;
     cout<<"|  APLIKASI RAWAT INAP                                      |"<<endl;
     cout<<"|  •    Jenis penyakit (5)                               |"<<endl;
